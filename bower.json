@@ -1,6 +1,6 @@
 {
   "name": "file-fire-ui",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "authors": [
     "Will in China <email.will.in.china@gmail.com>",
     "Saad Elbeleidy <sbeleidy90@gmail.com>"
@@ -15,16 +15,16 @@
   "license": "MIT",
   "homepage": "https://convoo.github.io/image-fire/",
   "dependencies": {
-    "polymer": "Polymer/polymer#^2.0.0-rc.1",
-    "polymerfire": "2.0-preview"
+    "polymer": "^2.0.0",
+    "polymerfire": "^2.2.1"
   },
   "devDependencies": {
-    "iron-component-page": "PolymerElements/iron-component-page#2.0-preview",
-    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#2.0-preview",
-    "web-component-tester": "6.0.0-prerelease.5",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0-rc.4",
-    "paper-fab": "PolymerElements/paper-fab#2.0-preview",
-    "paper-input": "PolymerElements/paper-input#2.0-preview",
-    "paper-button": "PolymerElements/paper-button#2.0-preview"
+    "iron-component-page": "PolymerElements/iron-component-page^2.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers^2.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0",
+    "paper-fab": "PolymerElements/paper-fab#^2.0.0",
+    "paper-input": "PolymerElements/paper-input^2.0.3",
+    "paper-button": "PolymerElements/paper-button#^2.0.0",
   }
 }
